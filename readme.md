@@ -1,0 +1,1 @@
+Triying to deploy a multi-war spring-boot ear package with skinnywar configuration.
